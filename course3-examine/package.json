@@ -1,0 +1,16 @@
+{
+  "name": "examine",
+  "version": "0.1.1",
+  "description": "A web example server and examining it",
+  "author": "Alex",
+  "dependencies": {
+    "architect": "^0.1.11",
+    "body-parser": "^1.14.1",
+    "bunyan": "^1.5.1",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "measured": "^1.0.2",
+    "morgan": "^1.6.1",
+    "usage": "^0.7.1"
+  }
+}

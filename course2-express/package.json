@@ -1,0 +1,11 @@
+{
+  "name": "web",
+  "version": "0.1.1",
+  "description": "A web example server",
+  "author": "Alex",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
