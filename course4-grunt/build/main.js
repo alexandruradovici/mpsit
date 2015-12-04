@@ -1,0 +1,1 @@
+"use strict";function lala(a,b,c,d){return a+b+c+d}require("./module.js"),module.exports.lala=lala;
